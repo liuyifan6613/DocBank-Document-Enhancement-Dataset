@@ -37,8 +37,8 @@
 ### Seal
 | 名称         | 说明               | 链接                     |
 |--------------|--------------------|--------------------------|
-| seal-10000-1    | 与GT10000对应，文件名-(x1, y1, x2, y2)分别表示印章位置左上和右下的坐标              | [百度网盘](https://pan.baidu.com/s/1pCCgHQxPOX-RWkCwmmxoXg)         |
-| Seal-10000-2    | 与GT10000对应，文件名-(x1, y1, x2, y2)分别表示印章位置左上和右下的坐标              | [百度网盘](https://pan.baidu.com/s/1TiRuLAQGVionW9qW6eWLBA)         |
+| seal-10000-1    | 10000张，与GT10000对应，文件名-(x1, y1, x2, y2)分别表示印章位置左上和右下的坐标              | [百度网盘](https://pan.baidu.com/s/1pCCgHQxPOX-RWkCwmmxoXg)         |
+| Seal-10000-2    | 10000张，与GT10000对应，文件名-(x1, y1, x2, y2)分别表示印章位置左上和右下的坐标              | [百度网盘](https://pan.baidu.com/s/1TiRuLAQGVionW9qW6eWLBA)         |
 
 
 ## 备注
