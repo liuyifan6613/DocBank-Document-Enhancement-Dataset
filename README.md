@@ -39,7 +39,7 @@
 |--------------|--------------------|--------------------------|----------|
 | seal-10000-1    | 10000张，混合数据，与GT10000对应，文件名-(x1, y1, x2, y2)分别表示印章位置左上和右下的坐标              | [百度网盘](https://pan.baidu.com/s/1iotKgCHiO17DxiTNiTbMaw)         | hc6v |
 | Seal-10000-2    | 10000张，混合数据，GT10000对应，文件名-(x1, y1, x2, y2)分别表示印章位置左上和右下的坐标              | [百度网盘](https://pan.baidu.com/s/1QQCtKhfZCN5wbxfPcZNveQ)         |  esc8 |
-| Seal-20000      | 20796张，混合数据，印章区域成对数据                                                        | [百度网盘]（https://pan.baidu.com/s/11E5WQG6cZTXZQxW_jzHw_Q）         |7t19|
+| Seal-20000      | 20796张，混合数据，印章区域成对数据                                                        | [百度网盘](https://pan.baidu.com/s/11E5WQG6cZTXZQxW_jzHw_Q)         |7t19|
 | Seal-30000      | 25033张，纯印章图片，无背景信息。GT为自行创建纯白对应shape图片                             | [百度网盘](https://pan.baidu.com/s/1kBtq-1UiVgmhizqdPSfzxA)         | 9qpf|
 
 
