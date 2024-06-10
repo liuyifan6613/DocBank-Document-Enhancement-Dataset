@@ -37,11 +37,12 @@
 ### Seal
 | 名称         | 说明               | 链接                     | 提取码   |
 |--------------|--------------------|--------------------------|----------|
-| seal-10000-1    | 10000张，与GT10000对应，文件名-(x1, y1, x2, y2)分别表示印章位置左上和右下的坐标              | [百度网盘](https://pan.baidu.com/s/1iotKgCHiO17DxiTNiTbMaw)         | hc6v |
-| Seal-10000-2    | 10000张，与GT10000对应，文件名-(x1, y1, x2, y2)分别表示印章位置左上和右下的坐标              | [百度网盘](https://pan.baidu.com/s/1QQCtKhfZCN5wbxfPcZNveQ)         |  esc8 |
-| Seal-30000      | 25033张，纯印章图片，无背景信息。GT为自行创建纯白对应shape图片。                             | [百度云盘](https://pan.baidu.com/s/1kBtq-1UiVgmhizqdPSfzxA)         | 9qpf|
+| seal-10000-1    | 10000张，混合数据，与GT10000对应，文件名-(x1, y1, x2, y2)分别表示印章位置左上和右下的坐标              | [百度网盘](https://pan.baidu.com/s/1iotKgCHiO17DxiTNiTbMaw)         | hc6v |
+| Seal-10000-2    | 10000张，混合数据，GT10000对应，文件名-(x1, y1, x2, y2)分别表示印章位置左上和右下的坐标              | [百度网盘](https://pan.baidu.com/s/1QQCtKhfZCN5wbxfPcZNveQ)         |  esc8 |
+| Seal-20000      | 20796张，混合数据，印章区域成对数据                                                        | [百度网盘]（https://pan.baidu.com/s/11E5WQG6cZTXZQxW_jzHw_Q）         |7t19|
+| Seal-30000      | 25033张，纯印章图片，无背景信息。GT为自行创建纯白对应shape图片                             | [百度网盘](https://pan.baidu.com/s/1kBtq-1UiVgmhizqdPSfzxA)         | 9qpf|
 
 
 ## 备注
-文档的GT图片大部分来自于互联网收集的公开图片，训练集由我们在GT上自己处理得到。**本数据集仅用于学术用途，请勿用于非法领域。**  
+文档的GT图片部分来自于互联网收集的公开图片，部分来自于真实数据。其中部分印章的真实数据来源于DocDiff以及ICDAR相关数据。大部分训练集由我们在GT上自己处理得到。**本数据集仅用于学术用途，请勿用于其他领域。**  
 有任何疑问可邮件联系*yf.liu2@siat.ac.cn*，如果本项目对您有帮助，欢迎您给本项目点一个star，感谢！
