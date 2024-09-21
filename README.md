@@ -15,7 +15,8 @@
 
 - [X] 释放第一批可用于合成的GT数据（10000张）
 - [X] 释放第一批印章数据
-- [ ] 释放第一批水印数据
+- [X] 释放第二批印章数据
+- [X] 释放第一批水印数据
 - [ ] 释放第一批阴影数据
 - [ ] 释放第一批超分数据
 - [ ] 释放第一批去模糊数据
@@ -42,6 +43,11 @@
 | Seal-2      | 20796张，混合数据，印章区域成对数据                                                        | [百度网盘](https://pan.baidu.com/s/11E5WQG6cZTXZQxW_jzHw_Q)         |7t19|
 | Seal-3      | 25033张，纯印章图片，无背景信息。GT为自行创建纯白对应shape图片                             | [百度网盘](https://pan.baidu.com/s/1kBtq-1UiVgmhizqdPSfzxA)         | 9qpf|
 | Seal-4      | 80000张，PNG带有透明通道纯印章，可置于自定义背景上，亦可转成jpg同Seal-3                           | [夸克网盘](https://pan.quark.cn/s/62ddd822ba6d)           |C4b8|
+
+### Watermark
+| 名称         | 说明               | 链接                     | 提取码   |
+|--------------|--------------------|--------------------------|----------|
+| watermark-1   | 10000张，与GT10000对应，水印生成来自于Stable Diffusion              | [百度网盘](https://pan.baidu.com/s/14nR52T-2b4AZ48O8OrhYyw)         | ad9w |
  
 
 ## 备注
