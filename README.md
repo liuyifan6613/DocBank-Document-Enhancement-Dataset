@@ -51,7 +51,7 @@
  
 ## 引用
 ```
- @misc{DocBankEnc,
+ @misc{DocBankEnh,
    author       = {Yifan Liu, Jiancheng Huang},
    title        = {DocBank Document Enhancement Dataset},
    year         = {2024},
