@@ -49,6 +49,16 @@
 |--------------|--------------------|--------------------------|----------|
 | watermark-1   | 10000张，与GT10000对应，水印生成来自于Stable Diffusion              | [百度网盘](https://pan.baidu.com/s/14nR52T-2b4AZ48O8OrhYyw)         | ad9w |
  
+## 引用
+```
+ @misc{DocBankEnc,
+   author       = {Yifan Liu, Jiancheng Huang},
+   title        = {DocBank Document Enhancement Dataset},
+   year         = {2024},
+   url          = {https://github.com/liuyifan6613/DocBank-Document-Enhancement-Dataset},
+   note         = {GitHub repository},
+ }
+```
 
 ## 备注
 文档的GT图片部分来自于互联网收集的公开图片，部分来自于真实数据。其中部分印章的真实数据来源于DocDiff以及ICDAR相关数据。大部分训练集由我们在GT上自己处理得到。**本数据集仅用于学术用途，请勿用于其他领域。**  
